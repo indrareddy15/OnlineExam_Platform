@@ -267,7 +267,7 @@ src/
 
 ## 🎯 Project Status
 
-**Production Ready:** Only few featured and deployable, soon will update the all real time features.
+**Production Ready:** Only few features are deployed, soon will update the all real time features.
 
 ---
 
